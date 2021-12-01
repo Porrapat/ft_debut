@@ -61,5 +61,7 @@ before leaving on an internship or can you validate it anytime you find one?
 
 ## Bonus section
 
-I think this project will made me and my Pisciner friend learn a lot. So we can prepare for the real curriculum better. Look forward to anyone would manual evaluation me.
+I think this project will made me and my Pisciner friend learn a lot. So we can prepare for the real curriculum better. Look forward to anyone would manual evaluation me. 
 
+## Evaluation 
+I think this answer is very nice.
