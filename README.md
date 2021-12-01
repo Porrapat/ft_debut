@@ -27,6 +27,36 @@ think it’s worth their time?
 
 **A:** It's strong point of here is the community. It's free, but you need to learn through peer evaluation system.
 
+## V.3 How to succeed at 42
+
+**Q:** 6. What do you think you’re learning the most at 42?
+
+**A:**
+
+**Q:** 7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
+
+**A:**
+
+**Q:** 8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict deadlines?
+
+**A:**
+
+## V.4 Life after 42
+**Q:** 9. If someone asks you why it says internships are required on the 42 website, but they
+do not offer job placement, what would you say?
+
+**A:**
+
+**Q:** 10. How do the internships work? Is it mandatory that you have to reach a certain level
+before leaving on an internship or can you validate it anytime you find one?
+
+**A:**
+
+**Q:** 11. How does 42 help you adapt to a work place?
+
+**A:**
+
+
 
 ## Bonus section
 
