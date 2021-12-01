@@ -31,32 +31,35 @@ think it’s worth their time?
 
 **Q:** 6. What do you think you’re learning the most at 42?
 
-**A:**
+**A:** For programming skill, I can learn myself anytime, anywhere. But when I join 42, I can learn with people. There are so many people aroud that we can really made friendship to study together along the way.
 
 **Q:** 7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
 
-**A:**
+**A:** Ask your peer on the left. If not, ask your peer on the right. 
 
 **Q:** 8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict deadlines?
 
-**A:**
+**A:** The cost of living and money. So, I invite so many Pisciner friends to do this ft_debut.  So, I can remind community talking and remind myself about the my personal goal.
 
 ## V.4 Life after 42
+
 **Q:** 9. If someone asks you why it says internships are required on the 42 website, but they
 do not offer job placement, what would you say?
 
-**A:**
+**A:** It's good to try. You get some knowledge. But if not the good choice for you. Then find the better one to suite you and comany need.
 
 **Q:** 10. How do the internships work? Is it mandatory that you have to reach a certain level
 before leaving on an internship or can you validate it anytime you find one?
 
-**A:**
+**A:** For now, I need to ask staff what the the specific level required for it. But for me as I know, we should at least level 7th before going to that. But something will be change. I think we should study first before going to intership. 
 
 **Q:** 11. How does 42 help you adapt to a work place?
 
-**A:**
+**A:** Programming skill. Communication skill. I learn a lot about online communication tools during the Piscine. For example Discord and Slack.
 
 
 
 ## Bonus section
+
+I think this project will made me and my Pisciner friend learn a lot. So we can prepare for the real curriculum better. Look forward to anyone would manual evaluation me.
 
